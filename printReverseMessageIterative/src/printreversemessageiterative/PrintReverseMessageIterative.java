@@ -19,7 +19,7 @@ public class PrintReverseMessageIterative {
         while (index >= 0) {
             System.out.print(message.charAt(index));
             index--;
-        }
+        } //end while loop
         System.out.println();
     } // end printReverseMessage 
 } // end PrintReverseMessageIterative class
